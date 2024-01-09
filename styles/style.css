@@ -1,0 +1,25 @@
+.nav{
+    background-image: url(../B9A1-New-Year-New-Mission/resources/Banner\ Image.png);
+    width: 1320px;
+    height: 600px;  
+    background: linear-gradient(180deg,)   
+}
+
+.new{
+    color: #FFF;
+    text-align: center;
+    font-size: 32px;
+    font-family: Merriweather;
+    font-weight: 400;
+    padding: 100px;
+}
+
+.new-year{
+    color: #FFF;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 95px;
+}
